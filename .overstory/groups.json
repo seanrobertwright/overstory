@@ -1176,5 +1176,18 @@
 		"status": "completed",
 		"createdAt": "2026-05-02T19:49:04.701Z",
 		"completedAt": "2026-05-02T23:42:40.212Z"
+	},
+	{
+		"id": "group-834a3b27",
+		"name": "batch-2026-05-03-polish-rules",
+		"memberIssueIds": [
+			"overstory-8dc0",
+			"overstory-caa9",
+			"overstory-3cbb",
+			"overstory-8c19"
+		],
+		"status": "active",
+		"createdAt": "2026-05-03T05:28:05.795Z",
+		"completedAt": null
 	}
 ]
